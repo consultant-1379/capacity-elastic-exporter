@@ -1,0 +1,43 @@
+
+Readme.md
+License
+Setup.py
+requirement.txt 
+
+capacity/__init__.py
+capacity/helpers.py 
+capacity/main.py 
+capacity/openstack/__init__.py
+capacity/openstack/main.py
+capacity/conf/conf.py
+docs/
+tests/unittest.py
+Dockerfile 
+docker-compose.yaml
+Makefile 
+
+
+
+Fetech information 
+
+
+
+Project - Quto Values
+
+Total  Infra Capacity
+CPUs
+RAM 
+Disk
+
+
+Scan all VM
+
+Check used resources
+CPU
+RAM
+Disk
+
+
+
+
+

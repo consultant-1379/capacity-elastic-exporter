@@ -1,0 +1,155 @@
+site: 'frankfurt'
+
+clouds:
+  sitecloud:
+    region_name: RegionOne
+    auth:
+      username: 'admin'
+      password: 'gPDgH1dkOQ8RhGeyJvSgmECW'
+      project_name: 'admin'
+      auth_url: 'https://127.0.0.1:5000'
+      user_domain_name: Default
+      project_domain_name: Default
+    verify: False
+    Storage:
+      username: 'admin'
+      password: 'Nexenta123@'
+      api_url : 'https://127.0.0.1:8443/'
+    Sdi:
+      username: 'ccmadmin'
+      password: 'ccmadmin123'
+      api_url : 'https://127.0.0.1:443'
+      cru_data:
+        017b3916-5bb0-11ea-b919-98a4042252e8 : 
+                                              cru_number : "CRU40"
+                                              rack_unit  : 0106
+        01fea870-5b86-11ea-b945-98a4042252d4 : 
+                                              cru_number : "CRU21"
+                                              rack_unit  : 0106
+        027a4304-7c43-1000-83de-903809467fc9 : 
+                                              cru_number : "CRU05"
+                                              rack_unit  : 0105
+        09270ad4-5b86-11ea-8806-98a4042251ee : 
+                                              cru_number : "CRU27"
+                                              rack_unit  : 0106
+        11403ff0-5b0a-11ea-a544-98a4042250ae : 
+                                              cru_number : "CRU35"
+                                              rack_unit  : 0106
+        151fa128-465b-11eb-a6e1-98a404228178 : 
+                                              cru_number : "CRU44"
+                                              rack_unit  : 0106
+        15237c9c-50ea-11ea-89d2-98a404224ff0 : 
+                                              cru_number : "CRU33"
+                                              rack_unit  : 0106
+        318cd554-5b44-11ea-a92f-98a404225351 : 
+                                              cru_number : "CRU39"
+                                              rack_unit  : 0106
+        323cc32a-725d-11eb-9b06-98a40422872c : 
+                                              cru_number : "CRU20"
+                                              rack_unit  : 0105
+        3bf3f63b-7c4d-1000-bce2-90380946a6db : 
+                                              cru_number : "CRU15"
+                                              rack_unit  : 0105
+        423dcd34-b276-11ea-bf6a-98a404226e45 : 
+                                              cru_number : "CRU24"
+                                              rack_unit  : 0106
+        47475c88-510e-11ea-9afb-98a404225036 : 
+                                              cru_number : "CRU26"
+                                              rack_unit  : 0106
+        48a90aa6-45b7-11eb-b153-98a404228326 : 
+                                              cru_number : "CRU43"
+                                              rack_unit  : 0106
+        4f2ac08f-7c5b-1000-b3a2-90380946a258 : 
+                                              cru_number : "CRU04"
+                                              rack_unit  : 0105
+        4f9a1874-5bc4-11ea-bc8f-98a40422516c : 
+                                              cru_number : "CRU38"
+                                              rack_unit  : 0106
+        5dceb626-7c86-1000-90a4-90380946a420 : 
+                                              cru_number : "CRU16"
+                                              rack_unit  : 0105
+        6059e350-4602-11eb-8ffb-98a404227fed : 
+                                              cru_number : "CRU41"
+                                              rack_unit  : 0106
+        878d466e-7c84-1000-a07d-90380946a3a8 : 
+                                              cru_number : "CRU03"
+                                              rack_unit  : 0105
+        9a21ec05-7c8c-1000-85d1-90380946b074 : 
+                                              cru_number : "CRU10"
+                                              rack_unit  : 0105
+        9a323fbf-7c8c-1000-96c3-90380946b179 : 
+                                              cru_number : "CRU06"
+                                              rack_unit  : 0105
+        a62997de-725a-11eb-88ab-98a40422873b : 
+                                              cru_number : "CRU25"
+                                              rack_unit  : 0106
+        b4c5bf98-71c4-11eb-bd7b-98a40422874f : 
+                                              cru_number : "CRU19"
+                                              rack_unit  : 0105
+        b69c5150-50ce-11ea-92d6-98a404225018 : 
+                                              cru_number : "CRU29"
+                                              rack_unit  : 0106
+        c579d13e-5c13-11ea-ba45-98a40422522f : 
+                                              cru_number : "CRU34"
+                                              rack_unit  : 0106
+        c62e4752-466b-11eb-9b33-98a404227ed5 : 
+                                              cru_number : "CRU46"
+                                              rack_unit  : 0106
+        cc18b246-b233-11ea-851f-98a404226fb2 : 
+                                              cru_number : "CRU30"
+                                              rack_unit  : 0106
+        cc9e7368-5b76-11ea-9aec-98a404225180 : 
+                                              cru_number : "CRU37"
+                                              rack_unit  : 0106
+        cce478cc-50a9-11ea-80c7-98a404224fb4 : 
+                                              cru_number : "CRU31"
+                                              rack_unit  : 0106
+        d5ac01d4-58b3-11ea-bab1-98a404224640 : 
+                                              cru_number : "CRU28"
+                                              rack_unit  : 0106
+        dd73addc-595c-11ea-badf-98a404224fc8 : 
+                                              cru_number : "CRU23"
+                                              rack_unit  : 0106
+        e2c969ec-5bb0-11ea-9dc4-98a404225333 : 
+                                              cru_number : "CRU36"
+                                              rack_unit  : 0106
+        ea5f6066-71ae-11eb-bd9d-98a40422874a : 
+                                              cru_number : "CRU13"
+                                              rack_unit  : 0105
+        f19b258e-5b86-11ea-b070-98a404224f9b : 
+                                              cru_number : "CRU22"
+                                              rack_unit  : 0106
+        f32e5f28-50f1-11ea-90f1-98a404225013 : 
+                                              cru_number : "CRU32"
+                                              rack_unit  : 0106
+        f61354f8-7c8a-1000-9def-90380946a46e : 
+                                              cru_number : "CRU14"
+                                              rack_unit  : 0105
+        f874bc8e-463c-11eb-b671-98a40422845c : 
+                                              cru_number : "CRU42"
+                                              rack_unit  : 0106
+        f97ceea1-7c42-1000-b485-90380946a276 : 
+                                              cru_number : "CRU09"
+                                              rack_unit  : 0105
+        f9815b6c-7c42-1000-8bed-90380946a23a : 
+                                              cru_number : "CRU08"
+                                              rack_unit  : 0105
+        f9832fdc-7c42-1000-b07e-90380946a6ae : 
+                                              cru_number : "CRU17"
+                                              rack_unit  : 0105
+        f98579ed-7c42-1000-ac5b-90380946a318 : 
+                                              cru_number : "CRU12"
+                                              rack_unit  : 0105
+        f987eaca-7c42-1000-96d0-90380946a1e3 : 
+                                              cru_number : "CRU07"
+                                              rack_unit  : 0105
+        f98dde71-7c42-1000-8a58-90380946a1f2 : 
+                                              cru_number : "CRU18"
+                                              rack_unit  : 0105
+        f9a1db8a-7c42-1000-bca4-90380946a41a : 
+                                              cru_number : "CRU11"
+                                              rack_unit  : 0105
+        fb707398-45a5-11eb-9631-98a4042283e9 : 
+                                              cru_number : "CRU45"
+                                              rack_unit  : 0106
+
